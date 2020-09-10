@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599745323 source:d:\study\courses\algorithm specialization\graphs\week 2\codes\connected components\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599728060 source:d:\study\courses\algorithm specialization\graphs\week 2\codes\curriculum check\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
