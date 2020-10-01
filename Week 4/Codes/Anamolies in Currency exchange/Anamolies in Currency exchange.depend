@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600100634 source:d:\study\courses\coursera\algorithm specialization\graphs\week 4\codes\anamolies in currency exchange\main.cpp
+	<iostream>
+	<vector>
+	<limits>
+

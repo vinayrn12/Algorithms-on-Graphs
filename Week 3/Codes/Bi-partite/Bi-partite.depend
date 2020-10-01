@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599813277 source:d:\study\courses\algorithm specialization\graphs\week 3\codes\bi-partite\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599810108 source:d:\study\courses\algorithm specialization\graphs\week 2\codes\min flight segments\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+

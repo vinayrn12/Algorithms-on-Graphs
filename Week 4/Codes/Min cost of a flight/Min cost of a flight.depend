@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1599988842 source:d:\study\courses\coursera\algorithm specialization\graphs\week 4\codes\min cost of a flight\main.cpp
+	<iostream>
+	<functional>
+	<queue>
+	<vector>
+	<algorithm>
+	<limits>
+

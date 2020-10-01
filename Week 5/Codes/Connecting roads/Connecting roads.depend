@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1600157551 source:d:\study\courses\coursera\algorithm specialization\graphs\week 5\codes\connecting roads\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<cmath>
+	<iomanip>
+	<limits>
+	<algorithm>
+
